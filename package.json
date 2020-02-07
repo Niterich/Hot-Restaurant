@@ -1,16 +1,17 @@
 {
   "name": "hot-restaurant",
   "version": "1.0.0",
-  "description": "restaurant app",
-  "main": "index.js",
+  "description": "Make Reservations at the Hot Restaurant",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Niterich/Hot-Restaurant.git"
   },
-  "author": "Ryan",
+  "author": "Hunter",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Niterich/Hot-Restaurant/issues"
